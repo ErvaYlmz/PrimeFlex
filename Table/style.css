@@ -1,0 +1,10 @@
+table{
+    border: 0.5px solid #706f6f;
+    border-collapse: collapse;
+}
+thead{
+    background-color: #fbfbfb;
+}
+tr{
+    border-bottom: 1px solid #706f6f;
+}
